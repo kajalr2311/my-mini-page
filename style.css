@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,
+body{
+    height: 100%;
+    width: 100%; 
+}
+main{
+    position: absolute;
+    left: 21%;
+    top: 5%;
+margin: auto;
+text-align: left;
+    background-position: center;
+    background-size: cover;
+    height: 550px;
+    width: 800px;
+    border-style: solid;
+    border-width: 25px;
+    background-image: url(https://images.unsplash.com/photo-1682687982360-3fbab65f9d50?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1682687982360-3fbab65f9d50?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+nav {
+    border: none;
+    text-align: right;
+    padding: 10px 20px;
+    font-size: 20px; 
+    margin: 10px 30px;
+}
+nav a{
+    padding: 5px 20px;
+     display: inline-block;
+     color: black;
+}
+.page2 h1{
+    margin-left: 80px;
+    margin-top: 80px;
+    font-size: 60px;
+    color: white;
+
+}
+.page2 h2{
+    margin-left: 80px;
+    margin-top:5px;
+    font-size: 40px;
+    color: white;
+}
+.page2 p{
+    margin-left: 80px;
+    color: white;
+}
+.page2 button{
+    margin-left: 80px;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orange;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
